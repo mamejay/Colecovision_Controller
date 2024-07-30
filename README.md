@@ -2,15 +2,15 @@
 Controller for colecovision  
 
 author: Jay Convertino 
-Modified: Mamejay
+  - Modified: Mamejay
 
 date: 2024/07/30
 
-******Changes********
+## Changes
 
 
-Found original devs board had the fire buttons the wrong way around.  When playing games like Loadrunner, digging holes left and right are the opposite.  This has been corrected
-Also I have included a SMD version for the diodes
+- Found original devs board had the fire buttons the wrong way around.  When playing games like Loadrunner, digging holes left and right are the opposite.  This has been corrected
+- Also I have included a SMD version for the diodes
 
 license: MIT (All files in repo)
 
@@ -22,11 +22,10 @@ license: MIT (All files in repo)
   - none
   
 ## Requirements
-  - KiCad v5
+  - KiCad v8
 
 ## Building
   - KiCad can generate any gerbers you are looking for.
-  - Board built and tested using a T-Tech 5000 CNC mill v4 isopro.
 
 ## Parts list
 |  REF  |      PART NUMBER      | QUANTITY |
