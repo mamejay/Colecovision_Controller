@@ -7,6 +7,8 @@ Modified: Mamejay
 date: 2024/07/30
 
 ******Changes********
+
+
 Found original devs board had the fire buttons the wrong way around.  When playing games like Loadrunner, digging holes left and right are the opposite.  This has been corrected
 Also I have included a SMD version for the diodes
 
